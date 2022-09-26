@@ -1,6 +1,6 @@
 # Tutorial de Procesamiento de Imágenes con Programación Genética
 Contenido del Tutorial de Procesamiento de Imágenes con Programación Genética del Encuentro Nacional de Computación (ENC) 2022
-<img src="https://github.com/hersan19/ENC2022-PI-GP/blob/main/enc2022-banner2.jpg" data-canonical-src="https://github.com/hersan19/ENC2022-PI-GP/blob/main/enc2022-banner2.jpg" width="1000" height="200" />
+<img src="https://github.com/pepetonof/SNAIC-2022/blob/main/xSENAIC_poster.jpg" width="1000" height="200" />
 <img src="https://github.com/hersan19/ENC2022-PI-GP/blob/main/covnnec.png" data-canonical-src="https://github.com/hersan19/ENC2022-PI-GP/blob/main/covnnec.png" width="1000" height="200" />
 <img src="https://github.com/hersan19/ENC2022-PI-GP/blob/main/zLogosimbolo_color.jpg" data-canonical-src="https://github.com/hersan19/ENC2022-PI-GP/blob/main/zLogosimbolo_color.jpg" width="200" height="200" />
 
